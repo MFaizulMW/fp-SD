@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\FPSD\FPSD\bin\Debug\net8.0\FPSD.exe
+C:\Users\LENOVO\source\repos\FPSD\FPSD\bin\Debug\net8.0\FPSD.deps.json
+C:\Users\LENOVO\source\repos\FPSD\FPSD\bin\Debug\net8.0\FPSD.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FPSD\FPSD\bin\Debug\net8.0\FPSD.dll
+C:\Users\LENOVO\source\repos\FPSD\FPSD\bin\Debug\net8.0\FPSD.pdb
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.dll
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\refint\FPSD.dll
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.pdb
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\ref\FPSD.dll
