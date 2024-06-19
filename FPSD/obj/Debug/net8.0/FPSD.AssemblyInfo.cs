@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPSD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37cbe121831f715ac0ae4980ce035c2299a3089")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPSD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPSD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

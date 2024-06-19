@@ -12,3 +12,4 @@ C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\refint\FPSD.dll
 C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.pdb
 C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\ref\FPSD.dll
+C:\Users\LENOVO\source\repos\FPSD\FPSD\obj\Debug\net8.0\FPSD.sourcelink.json
